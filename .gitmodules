@@ -1,0 +1,3 @@
+[submodule "chives-ingestion"]
+	path = chives-ingestion
+	url = git@github.com:low-standards/chives-ingestion.git

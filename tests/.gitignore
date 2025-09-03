@@ -1,0 +1,17 @@
+# Test artifacts
+.pytest_cache/
+__pycache__/
+*.pyc
+*.pyo
+.coverage
+htmlcov/
+.tox/
+.cache
+coverage.xml
+
+# Test environment
+.env.test
+
+# IDE
+.vscode/
+.idea/
